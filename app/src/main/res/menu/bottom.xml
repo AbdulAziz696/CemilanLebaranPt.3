@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/kukerFragment"
+        android:icon="@drawable/crostata"
+        android:title="kuker" />
+    <item
+        android:id="@+id/kubasFragment"
+        android:icon="@drawable/cake"
+        android:title="kubas" />
+</menu>
